@@ -1,0 +1,81 @@
+#company {
+  margin: 120px 0px 0px 190px;
+}
+
+.company-hero-txt1 {
+  margin-left: 441px;
+  width: 125px;
+  height: 48px;
+  border-radius: 4px;
+  background: #f3f7f2;
+}
+
+.company-txt1-1 {
+  padding-top: 8px;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  color: #153c3c;
+}
+
+.company-hero-txt2 {
+  font-size: 51px;
+  line-height: 64px;
+  letter-spacing: 2.240000009536743px;
+  margin: 13px 0px 0px 332px;
+}
+
+.company-info {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 96px;
+}
+
+.company-info-frame1,
+.company-info-frame2,
+.company-info-frame3,
+.company-info-frame4,
+.company-info-frame5,
+.company-info-frame6 {
+  position: relative;
+  width: 510px;
+  height: 613px;
+  border-radius: 12px;
+  background: #f2f8f8;
+}
+
+.company-info-frame1,
+.company-info-frame3,
+.company-info-frame5 {
+  margin: 0px 40px 40px 0px;
+}
+
+.company-info-frame5 {
+  margin-bottom: 0px;
+}
+
+.company-info-frame1-txt,
+.company-info-frame2-txt,
+.company-info-frame3-txt,
+.company-info-frame4-txt,
+.company-info-frame5-txt,
+.company-info-frame6-txt {
+  position: absolute;
+  font-size: 21px;
+  line-height: 32px;
+  letter-spacing: 0.9599999785423279px;
+  color: #172426;
+  top: 40px;
+  left: 56px;
+}
+
+.company-frame1-img,
+.company-frame2-img,
+.company-frame3-img,
+.company-frame4-img,
+.company-frame5-img,
+.company-frame6-img {
+  position: absolute;
+  top: 112px;
+  left: 56px;
+}

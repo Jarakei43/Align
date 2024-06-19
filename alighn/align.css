@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+@import url("./styles/header.css");
+@import url("./styles/ui-kit.css");
+@import url("./styles/lpages.css");
+@import url("./styles/company.css");
+@import url("./styles/blog.css");
+@import url("./styles/pricing.css");
+@import url("./styles/additional.css");
+@import url("./styles/footer.css");
+
+* {
+  margin: 0;
+  padding: 0;
+  outline: none;
+  list-style: none;
+  text-decoration: none;
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

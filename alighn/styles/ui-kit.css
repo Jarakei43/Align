@@ -1,0 +1,56 @@
+#ui-kit {
+  margin: 100px 0px 0px 80px;
+}
+
+.kit-hero {
+  position: relative;
+  margin-bottom: 80px;
+}
+
+.kit-hero-txt1 {
+  margin-left: 499px;
+  width: 283px;
+  height: 48px;
+  border-radius: 4px;
+  background: #f3f7f2;
+}
+
+.txt1-1 {
+  padding-top: 8px;
+  font-size: 18px;
+  line-height: 32px;
+  text-align: center;
+  color: #153c3c;
+}
+
+.kit-hero-txt2 {
+  line-height: 80px;
+  letter-spacing: 2.880000114440918px;
+  color: #172426;
+}
+
+.txt2-1 {
+  padding-left: 356px;
+  font-size: 62px;
+}
+
+.txt2-2 {
+  padding-left: 430px;
+  font-size: 63px;
+}
+
+.txt2-3 {
+  padding: 5px 0px 0px 520px;
+  font-size: 64px;
+}
+
+.kit-hero-img {
+  position: absolute;
+  z-index: -1;
+  top: 224px;
+  left: 520px;
+}
+/* 
+.kit-bg {
+  padding-left: 50px;
+} */
